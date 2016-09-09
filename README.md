@@ -2,9 +2,8 @@
 python module for linear regression by gradient descent, excercise for stanford machine learning course
 
 To use;
-
->>>from linear_regression import linreg
->>>linreg.linear_regression(data,t0,t1,alpha,limit)
+from linear_regression import linreg
+linreg.linear_regression(data,t0,t1,alpha,limit)
 
 where
 data is [(x1,y1),(x2,y2),,,(xi,yi)]
