@@ -1,5 +1,5 @@
 # linearregression
-python module for linear regression by gradient descent, excercise for stanford machine learning course
+python module for linear regression by gradient descent
 
 To use;
 
